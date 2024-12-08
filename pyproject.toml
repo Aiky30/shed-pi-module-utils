@@ -1,7 +1,7 @@
 [tool.poetry]
 name = "shed-pi-module-utils"
 version = "0.1.1"
-description = ""
+description = "Shed Pi Module Utilities"
 authors = ["Andrew Aikman <aiky30@yahoo.com>"]
 readme = "README.md"
 
@@ -14,3 +14,7 @@ requests = "^2.32.3"
 [build-system]
 requires = ["poetry-core"]
 build-backend = "poetry.core.masonry.api"
+
+[project.urls]
+"Homepage" = "https://github.com/Aiky30/shed-pi-module-utils"
+"Bug Tracker" = "https://github.com/Aiky30/shed-pi-module-utils/issues"
