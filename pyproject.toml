@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "shedpi-module-utils"
+name = "shed-pi-module-utils"
 version = "0.1.0"
 description = ""
 authors = ["Andrew Aikman <aiky30@yahoo.com>"]
